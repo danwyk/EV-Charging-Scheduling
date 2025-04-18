@@ -1,0 +1,20 @@
+#!/bin/bash
+
+for m in {4..9}; do
+  for n in $(seq 50 10 100); do
+    for i in {1..10}; do
+      output_dir="test/RealisticCases/m${m}"
+      mkdir -p "$output_dir"
+      prefix="case${i}"
+      python3 generator/CaseGenerator.py \
+        --m $m \
+        --n $n \
+        --lambda_param 0.2 \
+        --mu 40 \
+        --sigma 10 \
+        --max_release_time 1440 \
+        --output_folder "$output_dir" \
+        --file_prefix "$prefix"
+    done
+  done
+done

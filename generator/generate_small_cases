@@ -1,0 +1,18 @@
+#!/bin/bash
+
+for m in {2..5}; do
+    for i in {1..200}; do
+        output_dir="test/SmallCases/m${m}"
+        mkdir -p "$output_dir"
+        prefix="case${i}"
+        python3 generator/CaseGenerator.py \
+        --m $m \
+        --n 10 \
+        --lambda_param 0.5 \
+        --mu 5 \
+        --sigma 0.5 \
+        --max_release_time 1440 \
+        --output_folder "$output_dir" \
+        --file_prefix "$prefix"
+    done
+done
