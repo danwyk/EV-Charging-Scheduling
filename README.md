@@ -9,31 +9,31 @@
 ---
 
 ### Demonstration
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page01.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page01.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page02.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page02.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page03.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page03.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page04.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page04.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page05.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page05.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page06.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page06.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page07.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page07.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page08.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page08.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page09.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page09.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page10.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page10.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page11.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page11.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page12.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page12.png)
 
-<!-- ![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page13.png) -->
+<!-- ![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/Page13.png) -->
 
 
 ### Footnotes   
