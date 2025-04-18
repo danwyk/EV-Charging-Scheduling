@@ -1,65 +1,48 @@
 ## Minimizing Maximum Completion Time in EV Charging Station Scheduling   
 
-### Credit     
-*Kuo Wang | Daniel Wang | Aimeng Yang* 
-   
-### Project Mentors   
-*Brian Denton*
+### Credit  
+*Kuo Wang[^2] | Daniel Wang[^2] | Aimeng Yang[^3]*   
+
+### Project Mentor  
+*Brian Denton[^1]*   
 
 ---
 
 ### Demonstration
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page1.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page01.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page2.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page02.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page3.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page03.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page4.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page04.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page5.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page05.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page6.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page06.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page7.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page07.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page8.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page08.png)
 
-![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page9.png)
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page09.png)
 
 ![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page10.png)
 
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page11.png)
 
----
+![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page12.png)
+
+<!-- ![Demo](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/Presentation/page13.png) -->
 
 
-### Credit  
-Kuo Wang[^2], Daniel Wang[^2], Aimeng Yang[^3]  
+### Footnotes   
 
-### Project Mentors  
-Brian Denton[^1]  
+[^1]: *Stephen M. Pollock Collegiate Professor, Industrial and Operations Engineering*   
+&emsp;&emsp;University of Michigan, 1205 Beal Avenue, Ann Arbor, MI 48109   
 
----  
+[^2]: *Master Student, Industrial and Operations Engineering*   
+&emsp;&emsp;University of Michigan, 1205 Beal Avenue, Ann Arbor, MI 48109   
 
-### Footnotes  
-
-[^1]: *Stephen M. Pollock Collegiate Professor, Industrial and Operations Engineering*  
-&emsp;&emsp;University of Michigan, 1205 Beal Avenue, Ann Arbor, MI 48109  
-
-[^2]: *Master Student, Industrial and Operations Engineering*  
-&emsp;&emsp;University of Michigan, 1205 Beal Avenue, Ann Arbor, MI 48109  
-
-[^3]: *Undergraduate Student, Industrial and Operations Engineering*  
-&emsp;&emsp;University of Michigan, 1205 Beal Avenue, Ann Arbor, MI 48109  
-
----
-
-### Project Mentor  
-**Brian Denton**<sup>1</sup>  
-
-### Credit  
-**Kuo Wang**<sup>2</sup>, **Daniel Wang**<sup>2</sup>, **Aimeng Yang**<sup>3</sup>  
-
-<sub>1. Stephen M. Pollock Collegiate Professor, Industrial and Operations Engineering, University of Michigan  
-2. Master Student, Industrial and Operations Engineering, University of Michigan  
-3. Undergraduate Student, Industrial and Operations Engineering, University of Michigan</sub>
+[^3]: *Undergraduate Student, Industrial and Operations Engineering*   
+&emsp;&emsp;University of Michigan, 1205 Beal Avenue, Ann Arbor, MI 48109   
