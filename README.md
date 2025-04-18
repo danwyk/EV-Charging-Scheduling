@@ -1,5 +1,7 @@
 ## Minimizing Maximum Completion Time in EV Charging Station Scheduling   
 
+[Click here to view the report](https://github.com/danwyk/EV-Charging-Scheduling/blob/main/EV_Charging_Scheduling.pdf)
+
 ### Credit  
 *Kuo Wang[^2] | Daniel Wang[^2] | Aimeng Yang[^3]*   
 
